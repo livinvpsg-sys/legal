@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - diCam</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 40px 20px; }
+        h1 { border-bottom: 2px solid #eee; padding-bottom: 10px; color: #000; }
+        h2 { color: #444; margin-top: 30px; }
+        h3 { color: #666; }
+        .contact-box { background: #f9f9f9; padding: 20px; border-radius: 8px; border: 1px solid #eee; margin-top: 40px; }
+        ul { padding-left: 20px; }
+        li { margin-bottom: 10px; }
+    </style>
+</head>
+<body>
+
+    <h1>Privacy Policy for diCam</h1>
+    <p><strong>Effective Date:</strong> May 06, 2026</p>
+    
+    <p>diCam ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and handle your information when you use our mobile application (the "App").</p>
+
+    <h2>1. Information Collection and Use</h2>
+    <p>diCam is a site documentation and professional reporting tool. To provide its core features, the App requires access to specific information on your device.</p>
+
+    <h3>A. Camera Access</h3>
+    <p>The App requires access to your device's camera to capture site photos. These photos are processed locally on your device to add professional footers and metadata.</p>
+
+    <h3>B. Location Information</h3>
+    <p>To provide accurate site documentation, the App requests access to your device’s precise (GPS) and approximate location. This data is used solely to "burn" (embed) address and coordinate information directly onto the photos you capture. We do not store your location history or share your real-time location with any third-party servers.</p>
+
+    <h3>C. Media and Storage</h3>
+    <p>The App requires access to your device's storage/media gallery to save the processed photos you capture and allow you to select and edit existing photos from your gallery.</p>
+
+    <h3>D. Device Sensors (Inclinometer)</h3>
+    <p>The App uses your device's motion sensors (accelerometer/gyroscope) to provide real-time angle measurements (inclinometer). This data is displayed during capture and can be embedded into the final image.</p>
+
+    <h2>2. Data Processing and Storage</h2>
+    <ul>
+        <li><strong>Local Processing:</strong> All image processing, including the addition of footers, location stamps, and annotations, happens locally on your device.</li>
+        <li><strong>No Cloud Storage:</strong> We do not operate any servers that collect, store, or transmit your photos or personal data. Your images stay on your device unless you manually share them using other applications.</li>
+    </ul>
+
+    <h2>3. Third-Party Services</h2>
+    <p>The App may use the following third-party services which may collect information used to identify you:</p>
+    <ul>
+        <li><strong>Google Play Services:</strong> Used for location mapping and app functionality. Please refer to Google’s Privacy Policy for more details.</li>
+    </ul>
+
+    <h2>4. Permissions Summary</h2>
+    <ul>
+        <li><strong>CAMERA:</strong> To capture high-quality site photos.</li>
+        <li><strong>ACCESS_FINE_LOCATION / ACCESS_COARSE_LOCATION:</strong> To provide precise address data for reports.</li>
+        <li><strong>READ_EXTERNAL_STORAGE / WRITE_EXTERNAL_STORAGE / READ_MEDIA_IMAGES:</strong> To save and manage your project photos.</li>
+        <li><strong>HIGH_SAMPLING_RATE_SENSORS:</strong> To provide accurate inclinometer measurements.</li>
+    </ul>
+
+    <h2>5. Children’s Privacy</h2>
+    <p>This App is intended for professional use and does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children.</p>
+
+    <h2>6. Changes to This Privacy Policy</h2>
+    <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p>
+
+    <div class="contact-box">
+        <h2>7. Contact Us</h2>
+        <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:</p>
+        <p><strong>Fabxdi</strong><br>
+        Email: <a href="mailto:livin@fabxdi.com">livin@fabxdi.com</a></p>
+    </div>
+
+</body>
+</html>
